@@ -1,5 +1,5 @@
-//This Code is under the GNU Public License 3, made by Siripong Thomas Franzen "FranzMeister" 
-//contact me at siripongfranzen@me.com or http://theteenatheist.tumblr.com or http://twitter.com/siripongfranzen
+//This Code is under the GNU Public License 3, made by
+//co
 //Have Fun!
 
 #include <iostream>
